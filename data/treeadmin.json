@@ -1,0 +1,1 @@
+[    {        'text': 'Пользователи и группы',         'iconCls': 'icon-application-list',         'leaf': true,         'id': 'userPanel',         'permission': 'userPanel'    }]

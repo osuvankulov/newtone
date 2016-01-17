@@ -1,0 +1,14 @@
+{
+    "totalcount": 2, 
+    "success": true, 
+    "records": [
+        {
+            'id':1,
+            'name':"Дней"
+        },{
+            'id':2,
+            'name':"Месяцев"
+        }
+    ]
+}
+

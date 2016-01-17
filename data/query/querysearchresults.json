@@ -1,0 +1,32 @@
+{
+    "totalcount": 2, 
+    "success": true, 
+    "records": [
+        {
+           'id':1,
+           'podryadchik':'Реклама-Нова',
+           'numb':"544-47",
+           'carrier':"Щит",
+           'city':"Москва",
+           'razmesh':"перекрёсток",
+           'size':"5х10",
+           'side':"А",
+           'status':"свободен",
+           'begindate':"10.09.2011",
+           'enddate': "10.10.2011"
+        },{
+            'id':2,
+           'podryadchik':'Мособлреклама',
+           'numb':"45440",
+           'carrier':"Щит",
+           'city':"Москва",
+           'razmesh':"улица",
+           'size':"5х10",
+           'side':"Б",
+           'status':"вторая бронь",
+           'begindate':"01.10.2011",
+           'enddate': "01.11.2011"
+        }
+        
+    ]
+}

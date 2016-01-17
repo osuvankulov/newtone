@@ -1,0 +1,30 @@
+{
+    "totalcount": 2, 
+    "success": true, 
+    "records": [
+        {
+            'id':1,
+            'carrier':"Щит",
+            'contractor_code':'M-968',
+            'city':"Москва",
+            'size':"5x10",
+            'status':'Свободен',
+            'begindate':"10.09.2011",
+            'enddate':"15.10.2011",
+            'rkperiod':"15 дн.",
+            'addserv':'Изготовление, Монтаж, Контроль'
+        },{
+            'id':2,
+            'carrier':"Баннер",
+            'contractor_code':'K-876',
+            'city':"Москва",
+            'size':"155x10",
+            'status':'Занят',
+            'begindate':"15.09.2011",
+            'enddate':"25.10.2011",
+            'rkperiod':"10 дн.",
+            'addserv':'Изготовление, Монтаж, Контроль'
+        }
+        
+    ]
+}

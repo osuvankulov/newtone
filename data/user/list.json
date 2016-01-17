@@ -1,0 +1,63 @@
+ 
+{
+    "totalcount": 7, 
+    "success": true, 
+    "records": [
+        {
+            "username": "admin",
+            "role": "Роль 1",
+            "is_blocked": false, 
+            "podrazd": "Подразделение 1;Подразделение 2", 
+            "id": 2, 
+            "full_name": "Админов Админ Админкович"
+        }, 
+        {
+            "username": "irina",
+            "role": "Роль 2",
+            "is_blocked": false, 
+            "podrazd": "Подразделение 4;Подразделение 5", 
+            "id": 12, 
+            "full_name": "Бражник Ирина"
+        }, 
+        {
+            "username": "katya",
+            "role": "Роль 2",
+            "is_blocked": false, 
+            "podrazd": "Подразделение 4;Подразделение 5", 
+            "id": 13, 
+            "full_name": "Орлова Екатерина"
+        }, 
+        {
+            "username": "gtrrgb",
+            "role": "Роль 4",
+            "is_blocked": false, 
+            "podrazd": "Подразделение 4;Подразделение 5;Подразделение 3", 
+            "id": 3, 
+            "full_name": "первый админ готов"
+        }, 
+        {
+            "username": "1111",
+            "role": "Роль 9",
+            "is_blocked": false, 
+            "podrazd": "Подразделение 4;Подразделение 5", 
+            "id": 15, 
+            "full_name": "проверка оператора"
+        }, 
+        {
+            "username": "sb1",
+            "role": "Роль 1",
+            "is_blocked": false, 
+            "podrazd": "Подразделение 4;Подразделение 5", 
+            "id": 14, 
+            "full_name": "СБ первый"
+        }, 
+        {
+            "username": "567",
+            "role": "Роль 3",
+            "is_blocked": true, 
+            "podrazd": "Подразделение 4;Подразделение 5", 
+            "id": 9, 
+            "full_name": "фио"
+        }
+    ]
+}

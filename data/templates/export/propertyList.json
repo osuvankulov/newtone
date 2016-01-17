@@ -1,0 +1,88 @@
+{
+    "totalcount": 3, 
+    "success": true, 
+    "records": [
+        {
+            'id':1,
+            'field':"№",
+            'begin': 'A',
+            'end': 'J'
+        },{
+            'id':2,
+            'field':"Уникальный номер подрядчика",
+            'begin': 'K',
+            'end': 'I'
+        },{
+            'id':3,
+            'field':"Город",
+            'begin': 'L',
+            'end': 'T'
+        },{
+            'id':4,
+            'field':"Адрес",
+            'begin': 'L',
+            'end': 'T'
+        },{
+            'id':5,
+            'field':"Период",
+            'begin': 'L',
+            'end': 'T'
+        },{
+            'id':6,
+            'field':"Состояние",
+            'begin': 'L',
+            'end': 'T'
+        },{
+            'id':7,
+            'field':"Сумма за период",
+            'begin': 'L',
+            'end': 'T'
+        },{
+            'id':8,
+            'field':"Прайс",
+            'begin': 'L',
+            'end': 'T'
+        },
+        {
+            'field':"",
+            'begin': '',
+            'end': ''
+        },
+        {
+            'field':"",
+            'begin': '',
+            'end': ''
+        },
+        {
+            'field':"",
+            'begin': '',
+            'end': ''
+        },
+        {
+            'field':"",
+            'begin': '',
+            'end': ''
+        },
+        {
+            'field':"",
+            'begin': '',
+            'end': ''
+        },
+        {
+            'field':"",
+            'begin': '',
+            'end': ''
+        },
+        {
+            'field':"",
+            'begin': '',
+            'end': ''
+        },
+        {
+            'field':"",
+            'begin': '',
+            'end': ''
+        }
+        
+    ]
+}

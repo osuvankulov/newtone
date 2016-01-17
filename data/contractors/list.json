@@ -1,0 +1,36 @@
+{
+    "totalcount": 7, 
+    "success": true, 
+    "records": [
+        {
+            "id": 1, 
+            "name": "АФГ",
+            "city": "Москва",
+            "entities": "Арт Фэктори; АдвартСтройДизайн; Скай Групп; Красково",
+            "phones": "74955214545",
+            "emails": "afg@afg.com;afg@afg.com",
+            "site": "afg.com",
+            "sitename": "Сайт АФГ"
+        }, 
+        {
+            "id": 2, 
+            "name": "Ответ Вюрст Медиа",
+            "city": "Москва",
+            "entities": "АдвартСтройДизайн; Скай Групп",
+            "phones": "74953267777",
+            "emails": "admin@vyurst.ru;afg@afg.com",
+            "site": "vyurst.ru",
+            "sitename": "Наз сайта ОВМ"
+        }, 
+        {
+            "id": 3, 
+            "name": "МОСОБЛРЕКЛАМА",
+            "city": "Москва",
+            "entities": "Красково; Скай Групп; АдвартСтройДизайн",
+            "phones": "74952224332",
+            "emails": "admin@mosoblreklama.net;afg@afg.com",
+            "site": "mosoblreklama.net",
+            "sitename": "МосОблРеклама оф. сайт"
+        }
+    ]
+}

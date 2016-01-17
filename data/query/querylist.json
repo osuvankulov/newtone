@@ -1,0 +1,24 @@
+{
+    "totalcount": 2, 
+    "success": true, 
+    "records": [
+        {
+            'id': 1,
+            'senddate':"12.08.2011",
+            'createdby':"Петров А.А.",
+            'region': "Московская обл",
+            'city': "Москва",
+            'type': "Метро",
+            'comment': "Метро Ленина"
+        },
+        {
+            'id': 2,
+            'senddate':"13.08.2011",
+            'createdby':"Сусанин В.В.",
+            'region': "Московская обл",
+            'city': "Москва",
+            'type': "Метро",
+            'comment': "Метро Лубянка"
+        }
+    ]
+}

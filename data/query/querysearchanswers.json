@@ -1,0 +1,29 @@
+{
+    "totalcount": 3, 
+    "success": true, 
+    "records": [
+        {
+            'id':1,
+            'senddate':'13.09.2011 16:15',
+            'author':"Тапкин Иван",
+            'carrier':"Щит",
+            'city':'Москва',
+            'queryparams':'перекрёсток; 5x10,3x9'
+        },{
+            'id':2,
+            'senddate':'15.08.2011 16:15',
+            'author':"Петров Василий",
+            'carrier':"Баннер",
+            'city':'Питер',
+            'queryparams':'перекрёсток; 5x10,3x9'
+        },{
+            'id':3,
+            'senddate':'14.06.2011 16:15',
+            'author':"Иванов Иван",
+            'carrier':"Баннер",
+            'city':'Владивосток',
+            'queryparams':'перекрёсток; 5x10,3x9'
+        }
+        
+    ]
+}

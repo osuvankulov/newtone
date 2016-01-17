@@ -1,0 +1,17 @@
+{
+    "totalcount": 3, 
+    "success": true, 
+    "records": [
+        {
+            'id':1,
+            'name':"Баннер"
+        },{
+            'id':2,
+            'name':"Щит"
+        },{
+            'id':3,
+            'name':"Ситилайт"
+        }
+        
+    ]
+}

@@ -1,0 +1,1 @@
+[    {        'text': 'Запросы',         'iconCls': 'icon-application-list',         'leaf': true,         'id': 'queriesList',         'permission': 'queriesList'    },     {        'text': 'Рекламоносители',         'iconCls': 'icon-application-list',         'leaf': true,         'id': 'advertisingMedia',         'permission': 'advertisingMedia'    }]

@@ -1,0 +1,23 @@
+{
+    "totalcount": 3, 
+    "success": true, 
+    "records": [
+        {
+            'id':1,
+            'field':"Уникальный номер подрядчика",
+            'begin': 'A',
+            'end': 'J'
+        },{
+            'id':2,
+            'field':"Подрядчик",
+            'begin': 'K',
+            'end': 'I'
+        },{
+            'id':3,
+            'field':"Город",
+            'begin': 'L',
+            'end': 'T'
+        }
+        
+    ]
+}

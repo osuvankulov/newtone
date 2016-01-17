@@ -1,0 +1,55 @@
+{
+    "totalcount": 2, 
+    "success": true, 
+    "records": [
+        {
+           'id':1,
+           'carrier':"Щит",
+           'contractor':'Реклама-Нова',
+           'contractor_code':"М-968",
+           'city':"Москва",
+           'size':"5х10",
+           'status':"свободен",
+           'begin':"10.09.2011",
+           'end': "10.10.2011",
+           'period':"1 мес."
+        },
+        {
+           'id':2,
+           'carrier':"Щит",
+           'contractor':'Мособлреклама',
+           'contractor_code':"М-944",
+           'city':"Москва",
+           'size':"5х10",
+           'status':"свободен",
+           'begin':"01.10.2011",
+           'end': "11.10.2011",
+           'period':"10 дн."
+        },
+        {
+           'id':3,
+           'carrier':"Щит",
+           'contractor':'Мособлреклама',
+           'contractor_code':"М-971",
+           'city':"Москва",
+           'size':"5х10",
+           'status':"свободен",
+           'begin':"05.11.2011",
+           'end': "15.11.2011",
+           'period':"10 дн."
+        },
+        {
+           'id':4,
+           'carrier':"Щит",
+           'contractor':'Москва+',
+           'contractor_code':"774-0777",
+           'city':"Москва",
+           'size':"3х9",
+           'status':"свободен",
+           'begin':"01.10.2011",
+           'end': "16.10.2011",
+           'period':"15 дн."
+        }
+        
+    ]
+}
